@@ -1,0 +1,16 @@
+{
+    "buttonsHeader": {
+        "one": {
+            "label": "Historia",
+            "link": "/es/la-empresa"
+        },
+        "two": {
+            "label": "Qualification",
+            "link": "/es/calificacion"
+        },
+        "three": {
+            "label": "Diversidade e sustentabilidade",
+            "link": "/es/diversidad-y-sostenibilidad"
+        }              
+    }
+}

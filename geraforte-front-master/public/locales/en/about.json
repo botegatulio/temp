@@ -1,0 +1,16 @@
+{
+    "buttonsHeader": {
+        "one": {
+            "label": "History",
+            "link": "/en/about"
+        },
+        "two": {
+            "label": "Qualification",
+            "link": "/en/qualification"
+        },
+        "three": {
+            "label": "Diversity and sustainability",
+            "link": "/en/diversity"
+        }              
+    }
+}

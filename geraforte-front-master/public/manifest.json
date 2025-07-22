@@ -1,0 +1,21 @@
+{
+  "name": "Geraforte",
+  "short_name": "Geraforte",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Geraforte Grupos Geradores LTDA",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}

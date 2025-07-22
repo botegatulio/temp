@@ -1,0 +1,155 @@
+{
+    "history": "History",
+    "more_news": "Más noticias",
+    "read_more" : "Más info",
+    "more_cases" : "Más cases",
+    "base_uri": {
+        "single_news": "/es/blog/"
+    },
+    "logo_geraforte_topbar": "/img/logo_geraforte_es.png", 
+    "month_alias": {
+        "january": "Ene",
+        "february": "Feb",
+        "march": "Mar",
+        "april": "Abr",
+        "may": "May",
+        "june": "Jun",
+        "july": "Jul",
+        "august": "Ago",
+        "september": "Sep",
+        "october": "Oct",
+        "november": "Nov",
+        "december": "Dic"
+    },
+    "links": {
+        "page_contact": "/es/contacto",
+        "page_about" : "/es/la-empresa",
+        "page_news" : "/es/blog",
+        "base_product_lines" : "/es/lineas",
+        "page_products": "/es/productos",
+        "lines": {
+            "custom": "/es/lineas/personalizado"
+        }
+    },
+    "menu_switch_label": "Idioma",
+    "menu_language": {
+        "en": "Inglés",
+        "pt": "Portugués",
+        "es": "Español"
+    },
+    "contact_page": {
+        "form_labels": {
+            "name" : "Nombre",
+            "email": "E-mail",
+            "phone": "Teléfono",
+            "how_know_us": "¿como nos conociste?",
+            "message": "Mensaje",
+            "submit": "Enviar"
+        },
+        "form_required": {
+            "name": "Se requiere el nombre",
+            "email": "Email es requerido",
+            "phone": "Se requiere teléfono",
+            "how_know_us": "Cómo nos conociste es obligatorio",
+            "message": "Se requiere mensaje",
+            "recaptcha": "Se requiere recatcha"
+        },
+        "email_is_invalid": "Email inválido",
+        "message_response": {
+            "success": "Gracias, su mensaje ha sido enviado con éxito.",
+            "fail": "Hubo un error al enviar su mensaje, contáctenos de otra manera."
+        }
+    },
+    "about_page": {
+        "buttonsHeader": {
+            "one": {
+                "label": "Historia",
+                "link": "/es/la-empresa"
+            },
+            "two": {
+                "label": "Calificación",
+                "link": "/es/calificacion"
+            },
+            "three": {
+                "label": "Diversidad y Sustentabilidad",
+                "link": "/es/diversidad-y-sostenibilidad"
+            }              
+        }
+    },
+    "table_content": {
+        "download_file": "Descargar"
+    },
+    "social_networks_link": {
+        "linkedin": "https://www.linkedin.com/company/geraforte-grupos-geradores",
+        "facebook": "https://www.facebook.com/GeraforteGrupoGeradores",
+        "instagram": "https://www.instagram.com/gerafortegruposgeradores"
+    },
+    "dialog_interruption_phone": {
+        "title": "ATENCIÓN!",
+        "text_1": "Debido a mantenimiento en la red telefónica externa, nuestro teléfono fijo no está disponible momentáneamente.",
+        "text_2": "Todas las solicitudes deben ser enviadas a nuestro correo electrónico.",
+        "text_3": "o",
+        "close": "Cerrar"
+    },
+    "customer_service_form": {
+        "form_labels": {
+            "name": "Nombre*",
+            "email": "Correo electrónico*",
+            "phone": "Teléfono*",
+            "subject": "Asunto*",
+            "message": "Mensaje*",
+            "submit": "Enviar"
+        },
+        "form_required": {
+            "name": "Nombre es obligatorio",
+            "email": "Correo electrónico es obligatorio",
+            "phone": "Teléfono es obligatorio",
+            "subject": "Asunto es obligatorio",
+            "message": "Mensaje es obligatorio",
+            "recaptcha": "Recaptcha es obligatorio"
+        },
+        "email_is_invalid": "Correo electrónico inválido",
+        "message_response": {
+            "success": "Gracias, su mensaje fue enviado exitosamente.",
+            "fail": "Se produjo un error al enviar su mensaje, por favor contáctenos de otra manera."
+        }
+    },
+    "ombudsman_form": {
+        "form_labels": {
+            "name": "Nombre",
+            "email": "Correo electrónico*",
+            "phone": "Teléfono",
+            "subject": "Asunto*",
+            "message": "Mensaje*",
+            "submit": "Enviar"
+        },
+        "form_required": {
+            "name": "Nombre es obligatorio",
+            "email": "Correo electrónico es obligatorio",
+            "phone": "Teléfono es obligatorio",
+            "subject": "Asunto es obligatorio",
+            "message": "Mensaje es obligatorio",
+            "recaptcha": "Recaptcha es obligatorio"
+        },
+        "email_is_invalid": "Correo electrónico inválido",
+        "message_response": {
+            "success": "Gracias, su mensaje fue enviado exitosamente.",
+            "fail": "Se produjo un error al enviar su mensaje, por favor contáctenos de otra manera."
+        }
+    },
+    "whatsApp_modal": {
+        "form_labels": {
+            "name" : "Nombre",
+            "email": "E-mail",
+            "department": "Departamento",
+            "submit": "Llamar por whatsapp"
+        },
+        "form_required": {
+            "name": "Nombre es obligatorio",
+            "email": "Correo electrónico es obligatorio",
+            "department": "Departamento es obligatorio",
+            "recaptcha": "Recatcha es obligatorio"
+        },
+        "email_is_invalid": "Correo electrónico inválido"
+    }                            
+}
